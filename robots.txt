@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sararunkel.github.io/reference-r1u3gt/sitemap.xml
